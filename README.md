@@ -1,3 +1,4 @@
+
 ```markdown
 # 🚀 Omnifood
 
@@ -32,12 +33,25 @@ The website includes multiple marketing sections such as hero banners, features,
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- Flexbox
-- CSS Grid
-- JavaScript (ES6)
-- Web Fonts
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" alt="HTML5"/><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" alt="CSS3"/><br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" alt="Sass"/><br>Sass
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" alt="Bootstrap"/><br>Bootstrap
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,16 +60,26 @@ The website includes multiple marketing sections such as hero banners, features,
 ```
 
 Omnifood/
-├── css/                
-#Stylesheets
-├── js/                 
-#JavaScript files
-├── img/                
-#Images and assets
-├── webfonts/           
-#Fonts
-├── index.html          
-#Main entry point
+├── css/
+
+# Stylesheets
+
+├── js/
+
+# JavaScript files
+
+├── img/
+
+# Images and assets
+
+├── webfonts/
+
+# Fonts
+
+├── index.html
+
+# Main entry point
+
 └── manifest.webmanifest
 
 ````
@@ -138,12 +162,9 @@ If you found this project helpful, consider giving it a star on GitHub.
 
 ---
 
----
-
 ## 👨‍💻 Author
 
 Fares Soliman
 GitHub: [https://github.com/FaresSoliman99](https://github.com/FaresSoliman99)
 
-```
 ```

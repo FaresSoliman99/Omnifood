@@ -46,11 +46,16 @@ The website includes multiple marketing sections such as hero banners, features,
 ```
 
 Omnifood/
-├── css/                Stylesheets
-├── js/                 JavaScript files
-├── img/                Images and assets
-├── webfonts/           Fonts
-├── index.html          Main entry point
+├── css/                
+Stylesheets
+├── js/                 
+JavaScript files
+├── img/                
+Images and assets
+├── webfonts/           
+Fonts
+├── index.html          
+Main entry point
 └── manifest.webmanifest
 
 ````

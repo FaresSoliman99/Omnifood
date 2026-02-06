@@ -100,11 +100,6 @@ Ensuring a consistent and smooth experience across devices.
 
 Possible enhancements include:
 
-* Backend integration
-* Connecting to real APIs
-* Authentication and user accounts
-* Shopping cart and ordering system
-* Payment integration
 * React or Vue conversion
 * Animations and transitions
 * Deployment to Netlify, Vercel, or GitHub Pages
@@ -137,10 +132,6 @@ Feel free to fork the repository and submit a Pull Request.
 If you found this project helpful, consider giving it a star on GitHub.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
